@@ -126,7 +126,7 @@ public class YoutubeActivity extends YouTubeBaseActivity     //Implementing YouT
             public void onError(YouTubePlayer.ErrorReason errorReason) {
 
             }
-        }
+        };
 
         }
 
